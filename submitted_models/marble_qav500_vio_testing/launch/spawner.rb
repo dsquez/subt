@@ -204,7 +204,7 @@ def rosExecutables(_name, _worldName)
       <command>roslaunch --wait marble_qav500_vio_testing description.launch world_name:=#{_worldName} name:=#{_name}</command>
     </executable>
     <executable name='x4_ros_ign_bridge'>
-      <command>roslaunch --wait marble_qav500_vio_testing vehicle_topics.launch world_name:=#{_worldName} name:=#{_name} uav:=1 lidar_3d:=1 rgbd_cam:=1 tof_top:=1 tof_bottom:=1   </command>
+      <command>roslaunch --wait marble_qav500_vio_testing vehicle_topics.launch world_name:=#{_worldName} name:=#{_name} uav:=1 lidar_3d:=1 rgbd_cam:=1 tof_top:=1 tof_bottom:=1  stereo_cam:=1 </command>
   </executable>
   HEREDOC
 end

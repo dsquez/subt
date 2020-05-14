@@ -53,7 +53,7 @@ fi
 # Define usage function.
 usage()
 {
-  echo "Usage: $0 [--tunnel | --urban]"
+  echo "Usage: $0 [--tunnel | --urban | --cave]"
   echo -e 
   echo "Optional extra command:"
   echo "  --headless : run cloudsim in headless mode"
@@ -78,6 +78,15 @@ then
        echo -e 'circuit=urban\nworldName=urban_circuit_practice_01\nheadless=true' > .env
     else
        echo -e 'circuit=urban\nworldName=urban_circuit_practice_01\nheadless=false' > .env
+    fi
+    docker-compose up
+  elif [ "${1,,}" == "--cave" ]
+  then
+    if [ "${2,,}" == "--headless" ]
+    then
+       echo -e 'circuit=cave\nworldName=simple_cave_01\nheadless=true' > .env
+    else
+       echo -e 'circuit=cave\nworldName=simple_cave_01\nheadless=false' > .env
     fi
     docker-compose up
   else

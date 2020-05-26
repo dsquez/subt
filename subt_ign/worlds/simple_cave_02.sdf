@@ -63,7 +63,7 @@
 
     <include>
       <name>phone_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>225.000000 160.600000 10.000000 -1.570796 0 0.104720</pose>
     </include>
 
@@ -87,7 +87,7 @@
 
     <include>
       <name>phone_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>75.560000 125.240000 0.370000 -1.630138 0 0.189892</pose>
     </include>
 
@@ -285,7 +285,7 @@
 
     <include>
       <name>phone_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>99.770000 -24.630000 -4.750000 -1.159946 0 0.000000</pose>
     </include>
 
@@ -315,7 +315,7 @@
 
     <include>
       <name>phone_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>50.260000 -45.820000 -10.150000 -1.620015 0.139626 0.370010</pose>
     </include>
 

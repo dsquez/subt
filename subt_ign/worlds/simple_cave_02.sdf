@@ -57,14 +57,14 @@
 
     <include>
       <name>backpack_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>227.100000 150.330000 10.430000 0 0 -1.535890</pose>
     </include>
 
     <include>
       <name>phone_1</name>
       <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
-      <pose>225.000000 160.600000 10.000000 -1.570796 0 0.104720</pose>
+      <pose>225.000000 160.600000 10.000000 0 0 0.104720</pose>
     </include>
 
     <include>
@@ -88,7 +88,7 @@
     <include>
       <name>phone_2</name>
       <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
-      <pose>75.560000 125.240000 0.370000 -1.630138 0 0.189892</pose>
+      <pose>75.560000 125.240000 0.370000 0 0 0.189892</pose>
     </include>
 
     <include>
@@ -111,7 +111,7 @@
 
     <include>
       <name>rescue_randy_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>150.000000 133.650000 0.760000 0 0 0.000000</pose>
     </include>
 
@@ -141,7 +141,7 @@
 
     <include>
       <name>rescue_randy_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>26.670000 103.910000 1.180000 0.260054 0 0.000000</pose>
     </include>
 
@@ -153,7 +153,7 @@
 
     <include>
       <name>backpack_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>150.000000 102.110000 0.500000 0 0.200015 2.539978</pose>
     </include>
 
@@ -286,7 +286,7 @@
     <include>
       <name>phone_3</name>
       <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
-      <pose>99.770000 -24.630000 -4.750000 -1.159946 0 0.000000</pose>
+      <pose>99.770000 -24.630000 -4.750000 0 0 0.000000</pose>
     </include>
 
     <include>
@@ -316,7 +316,7 @@
     <include>
       <name>phone_4</name>
       <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
-      <pose>50.260000 -45.820000 -10.150000 -1.620015 0.139626 0.370010</pose>
+      <pose>50.260000 -45.820000 -10.150000 0 0.139626 0.370010</pose>
     </include>
 
     <include>
@@ -333,7 +333,7 @@
 
     <include>
       <name>backpack_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>150.560000 -49.220000 -19.675000 0 0 -0.619941</pose>
     </include>
 
@@ -381,7 +381,7 @@
 
     <include>
       <name>backpack_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>100.040000 -109.110000 -30.220000 -0.087266 0 -1.396263</pose>
     </include>
 
@@ -429,7 +429,7 @@
 
     <include>
       <name>rescue_randy_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>102.210000 -142.470000 -29.880000 -0.049916 0 -1.570796</pose>
     </include>
 
@@ -453,7 +453,7 @@
 
     <include>
       <name>rescue_randy_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>177.860000 -149.970000 -40.000000 -0.099484 0 -1.658063</pose>
     </include>
 

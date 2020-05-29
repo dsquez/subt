@@ -78,13 +78,8 @@
         pkg="ros_ign_bridge"
         type="parameter_bridge"
         name="ros_ign_bridge_tof_top"
-<<<<<<< HEAD
         args="$(arg sensor_prefix)/tof_top/depth_image/points@sensor_msgs/PointCloud2[ignition.msgs.PointCloudPacked">
         <remap from="$(arg sensor_prefix)/tof_top/depth_image/points" to="tof_top/depth/points"/>
-=======
-        args="$(arg sensor_prefix)/tof_top/points@sensor_msgs/PointCloud2[ignition.msgs.PointCloudPacked">
-        <remap from="$(arg sensor_prefix)/tof_top/points" to="tof_top/depth/points"/>
->>>>>>> e6f4e0ddcc538a26cd9ac766af1f9ca89e010444
       </node>
       <node
         pkg="ros_ign_image"
@@ -101,13 +96,8 @@
         pkg="ros_ign_bridge"
         type="parameter_bridge"
         name="ros_ign_bridge_tof_bottom"
-<<<<<<< HEAD
         args="$(arg sensor_prefix)/tof_bottom/depth_image/points@sensor_msgs/PointCloud2[ignition.msgs.PointCloudPacked">
         <remap from="$(arg sensor_prefix)/tof_bottom/depth_image/points" to="tof_bottom/depth/points"/>
-=======
-        args="$(arg sensor_prefix)/tof_bottom/points@sensor_msgs/PointCloud2[ignition.msgs.PointCloudPacked">
-        <remap from="$(arg sensor_prefix)/tof_bottom/points" to="tof_bottom/depth/points"/>
->>>>>>> e6f4e0ddcc538a26cd9ac766af1f9ca89e010444
       </node>
       <node
         pkg="ros_ign_image"
@@ -152,11 +142,7 @@
     </group>
 
     <!-- non-stereo -->
-<<<<<<< HEAD
     <group if="$(arg stereo_cam)">
-=======
-    <group unless="$(arg stereo_cam)">
->>>>>>> e6f4e0ddcc538a26cd9ac766af1f9ca89e010444
       <node
         pkg="ros_ign_bridge"
         type="parameter_bridge"

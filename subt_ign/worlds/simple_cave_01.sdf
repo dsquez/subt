@@ -63,7 +63,7 @@
 
     <include>
       <name>rescue_randy_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>453.290000 183.140000 9.500000 0 0 0.261799</pose>
     </include>
 
@@ -117,7 +117,7 @@
 
     <include>
       <name>rescue_randy_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>348.000000 78.140000 -0.290000 -0.109956 0 0.314159</pose>
     </include>
 
@@ -141,7 +141,7 @@
 
     <include>
       <name>phone_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>425.000000 76.720000 -9.810000 -1.570796 0 0.349066</pose>
     </include>
 
@@ -183,7 +183,7 @@
 
     <include>
       <name>backpack_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>233.830000 48.750000 0.310000 0 0 2.408554</pose>
     </include>
 
@@ -219,7 +219,7 @@
 
     <include>
       <name>phone_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>500.000000 50.640000 -29.610000 -1.512502 0 0.000000</pose>
     </include>
 
@@ -237,7 +237,7 @@
 
     <include>
       <name>backpack_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>300.000000 32.580000 0.060000 0 0 3.316126</pose>
     </include>
 
@@ -267,7 +267,7 @@
 
     <include>
       <name>rescue_randy_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>536.600000 25.050000 -30.020000 0 0 -1.570796</pose>
     </include>
 
@@ -297,7 +297,7 @@
 
     <include>
       <name>backpack_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>80.160000 -5.000000 0.070000 0 0 3.141593</pose>
     </include>
 
@@ -321,7 +321,7 @@
 
     <include>
       <name>phone_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>149.960000 -2.030000 0.410000 -1.659983 0 1.448623</pose>
     </include>
 
@@ -369,7 +369,7 @@
 
     <include>
       <name>phone_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>125.000000 -121.680000 0.210000 -1.639911 0 0.000000</pose>
     </include>
 
@@ -417,7 +417,7 @@
 
     <include>
       <name>backpack_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>130.110000 -200.000000 0.030000 0 0 -1.396263</pose>
     </include>
 
@@ -435,7 +435,7 @@
 
     <include>
       <name>rescue_randy_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>150.000000 -237.280000 20.000000 0 0 3.228859</pose>
     </include>
 

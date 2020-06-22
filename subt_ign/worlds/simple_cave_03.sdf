@@ -44,73 +44,73 @@
 
     <include>
       <name>backpack_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>105.160000 -5.000000 0.070000 0 0 3.141593</pose>
     </include>
 
     <include>
       <name>backpack_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>75.149 -22.72 0.32 0 0 0</pose>
     </include>
 
     <include>
       <name>backpack_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>211.074 -73.29 0.1925 0 0 0</pose>
     </include>
 
     <include>
       <name>backpack_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/JanSport Backpack Red</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>401.338 -23.936 -19.634 0 0 0</pose>
     </include>
 
     <include>
       <name>phone_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>375.000000 -71.680000 -19.790000 -1.639911 0 0.000000</pose>
     </include>
 
     <include>
       <name>phone_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>181.653811 -135.754 -29.8343 -1.71650 0.000000</pose>
     </include>
 
     <include>
       <name>phone_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>264.797 131.493 -9.74640 -1.640110 -0.075226 0.005217</pose>
     </include>
 
     <include>
       <name>phone_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Samsung J8 Black</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Rope</uri>
       <pose>169.524 73.0042 -0.09809 -1.59166 0.037107 -0.00257</pose>
     </include>
 
     <include>
       <name>rescue_randy_1</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>261.600000 -24.950000 -10.020000 0 0 -1.570796</pose>
     </include>
 
     <include>
       <name>rescue_randy_2</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>249.055081 -141.019 -30.0252 0 0 -0.288563</pose>
     </include>
 
     <include>
       <name>rescue_randy_3</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>333.206 131.249 -19.8467 0  0 -1.570796</pose>
     </include>
 
     <include>
       <name>rescue_randy_4</name>
-      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Rescue Randy Sitting</uri>
+      <uri>https://fuel.ignitionrobotics.org/1.0/openrobotics/models/Climbing Helmet With Light</uri>
       <pose>127.69 -88.85 -19.98 0 0 -1.570796</pose>
     </include>
 
